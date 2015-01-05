@@ -1,0 +1,30 @@
+{
+  "name": "material-ui-stylus",
+  "version": "0.5.0",
+  "description": "Stylus version for the material-ui CSS framework",
+  "keywords": [
+    "material-ui",
+    "stylus"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Autarc/material-ui-stylus.git"
+  },
+  "license": "MIT",
+  "author": "Stefan Dühring|Autarc",
+  "main": "index.styl",
+  "scripts": {
+    "postinstall": "node build"
+  },
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "^2.0.0",
+    "gulp-load-plugins": "^0.8.0",
+    "gulp-minify-css": "^0.3.11",
+    "gulp-plumber": "^0.6.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-sourcemaps": "^1.3.0",
+    "gulp-stylus": "^1.3.4",
+    "run-sequence": "^1.0.2"
+  }
+}
