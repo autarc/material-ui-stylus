@@ -10,9 +10,9 @@ _Latest Release: [0.5.0][0]_
 
 There are multiple options to get the style files:
 
-  a) `npm install material-ui-stylus`
-  b) `bower install material-ui-stylus`
-  c) Download the master version or clone this repository
+* a) `npm install material-ui-stylus`
+* b) `bower install material-ui-stylus`
+* c) Download the master version or clone this repository
 
 Afterwards link the files as a references into your stylus sheet:
 
