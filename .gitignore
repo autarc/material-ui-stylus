@@ -1,0 +1,13 @@
+##########
+# Custom #
+##########
+
+# ~
+# .gitignore
+
+#################
+# Project files #
+#################
+
+# modules
+node_modules/
