@@ -29,12 +29,12 @@ gulp.task('default', function(){
             cascade: false,
             browsers: ['last 2 versions']
           }))
-          .pipe($.minifyCSS())
+          // .pipe($.minifyCSS())
         .pipe($.sourcemaps.write())
         .pipe($.rename('material-ui.css'))
         .pipe(gulp.dest(dist));
 });
 
 run('default', function(){
-  console.log('BUILD');
+  console.log('[BUILD] "dist/material-ui.css"');
 });
