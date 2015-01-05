@@ -1,7 +1,7 @@
 material-ui-stylus
 ==================
 
-This is the Stylus counterpart of the material-ui React/CSS-framework, which originally uses Less for the styles.
+This is the Stylus counterpart of the material-ui React/CSS-framework which originally uses Less for the styles.
 
 _Latest Release: [0.5.0][0]_
 
@@ -10,9 +10,9 @@ _Latest Release: [0.5.0][0]_
 
 There are multiple options to get the style files:
 
-a) `npm install material-ui-stylus`
-b) `bower install material-ui-stylus`
-c) Download the master version or fork/clone the repository
+  a) `npm install material-ui-stylus`
+  b) `bower install material-ui-stylus`
+  c) Download the master version or clone this repository
 
 Afterwards link the files as a references into your stylus sheet:
 
@@ -46,7 +46,7 @@ or including the some custom styles before loading the material-ui-styles files.
 ## Thanks
 
 Kudos to the folks of [call-em-all][3] for their work on the material-ui framework and
-[Giampaolo][4] for his Sass ports of the styles.
+[Giampaolo][4] for his Sass port of the styles.
 
 
 
