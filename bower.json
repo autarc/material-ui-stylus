@@ -1,0 +1,14 @@
+{
+  "name": "material-ui-stylus",
+  "version": "0.5.0",
+  "description": "Stylus version for the material-ui CSS framework",
+  "main": "index.styl",
+  "authors": [
+    "Autarc <Autarc@gmail.com>"
+  ],
+  "keywords": [
+    "material-ui",
+    "stylus"
+  ],
+  "license": "MIT"
+}
